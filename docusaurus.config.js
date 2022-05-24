@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'OpenSource-enthusiastic',
+  title: 'OpenSource && Student',
   tagline: 'Open-source is cool',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
@@ -16,7 +16,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'OpenSource-enthusiastic', // Usually your GitHub org/user name.
+  organizationName: 'OpenSource && Student', // Usually your GitHub org/user name.
   projectName: 'website', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
@@ -57,7 +57,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'OpenSource-enthusiastic',
+        title: 'OpenSource && Student',
         logo: {
           alt: 'My Site Logo',
           src: 'img/gsoc.svg',
@@ -120,7 +120,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} OpenSource-enthusiastic Website, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} OpenSource && Student Website, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
