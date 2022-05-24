@@ -2,6 +2,10 @@
 sidebar_position: 1
 ---
 
+# How To Ask Questions The Smart Way
+
+![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)
+
 ## Authors
 
 ### Eric Steven Raymond
