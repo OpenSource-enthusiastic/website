@@ -24,9 +24,9 @@ module.exports = {
 Copy the `docs/intro.md` file to the `i18n/fr` folder:
 
 ```bash
-mkdir -p i18n/fr/docusaurus-plugin-content-docs/current/
+mkdir -p i18n/zh/docusaurus-plugin-content-docs/current/
 
-cp docs/HowToAskQuestion.md i18n/fr/docusaurus-plugin-content-docs/current/HowToAskQuestion.md
+cp docs/HowToAskQuestion.md i18n/zh/docusaurus-plugin-content-docs/current/HowToAskQuestion.md
 ```
 
 Translate `i18n/fr/docusaurus-plugin-content-docs/current/intro.md` in French.
@@ -36,7 +36,7 @@ Translate `i18n/fr/docusaurus-plugin-content-docs/current/intro.md` in French.
 Start your site on the French locale:
 
 ```bash
-npm run start -- --locale fr
+npm run start -- --locale zh
 ```
 
 Your localized site is accessible at `http://localhost:3000/fr/` and the `Getting Started` page is translated.
@@ -78,7 +78,7 @@ The locale dropdown now appears in your navbar:
 Build your site for a specific locale:
 
 ```bash
-npm run build -- --locale fr
+npm run build -- --locale zh
 ```
 
 Or build your site to include all the locales at once:
