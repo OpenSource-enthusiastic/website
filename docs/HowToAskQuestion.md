@@ -2,20 +2,17 @@
 sidebar_position: 1
 ---
 
-## How To Ask Questions The Smart Way
+## Authors
 
 ### Eric Steven Raymond
 
-[Thyrsus Enterprises](http://www.catb.org/~esr/)
+Website: [Thyrsus Enterprises](http://www.catb.org/~esr/)
 
-
-```<esr@thyrsus.com>```
-
+Email: ```<esr@thyrsus.com>```
 
 ### Rick Moen
 
-
-```<respond-auto@linuxmafia.com>```
+Email: ```<respond-auto@linuxmafia.com>```
 
 
 | **Revision History**                                          |             |     |

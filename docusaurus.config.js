@@ -65,7 +65,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'HowToAskQuestion',
             position: 'left',
             label: 'Tutorial',
           },
@@ -85,7 +85,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/intro',
+                to: '/docs/HowToAskQuestion',
               },
             ],
           },
