@@ -4,32 +4,39 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Google Summer of Code',
+    Svg: require('@site/static/img/gsoc-summer.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+          Google Summer of Code is a global,
+          online program focused on bringing new contributors into open source software development.
+          GSoC Contributors work with an open source organization on a 12+ week programming project under the guidance of mentors.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Open Source Promotion Plan',
+    Svg: require('@site/static/img/ospp_en.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+          Open Source Promotion Plan is a summer program organized and
+          long-term supported by Open Source Software Supply Chain Promotion Plan.
+          It aims to encourage college students to actively participate in the development
+          and maintenance of open source software and promote the vigorous development
+          of excellent open source software community.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Linux Foundation Training',
+    Svg: require('@site/static/img/lf_logo.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+          The Linux Foundation hosts The Linux Foundation Training (LiFT) Scholarship
+          Program to provide opportunities to up-and-coming developers and sysadmins
+          who show promise for helping shape the future of Linux and open source software
+          but do not otherwise have the ability to attend training courses or take certification exams.
+          Since 2010, we have awarded over 1,100 scholarships worth millions of dollars in training and certification.
       </>
     ),
   },
