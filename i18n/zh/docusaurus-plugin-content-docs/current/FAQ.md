@@ -7,6 +7,6 @@ sidebar_position: 4
 
 ![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)
 
-First question: how to get stronger?
+第一个问题：如何才能变强？
 
-Answer: Lose all your hair~
+回复：掉光你的头发～
