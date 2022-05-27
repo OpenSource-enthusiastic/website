@@ -1,9 +1,13 @@
 ---
 slug: welcome
-title: Welcome
+title: 我的 Apache 之道
 authors: [CheverJohn]
 tags: [Hello world, Open-source]
 ---
+
+# Let's talk about the open source philosophy
+
+![七牛云 & 中文](http://cdn.mr8god.cn/img/chinese.svg)
 
 ## 概述
 
