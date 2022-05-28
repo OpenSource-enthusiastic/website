@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # How To Ask Questions The Smart Way
 
-![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)
+![chinese](https://cdn.mr8god.cn/img/chinese.svg)
 
 ## Authors
 

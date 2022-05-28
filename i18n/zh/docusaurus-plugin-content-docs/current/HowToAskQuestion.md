@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # 提问的智慧
 
-![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)
+![chinese](https://cdn.mr8god.cn/img/chinese.svg)
 
 ## Brief Introduction
 

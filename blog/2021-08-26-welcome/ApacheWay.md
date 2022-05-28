@@ -4,7 +4,7 @@ title: My Apache way
 authors: [CheverJohn]
 tags: [Hello world, Open-source]
 ---
-![七牛云 & 中文](http://cdn.mr8god.cn/img/chinese.svg)
+![chinese](https://cdn.mr8god.cn/img/chinese.svg)
 
 # Let's talk about the open source philosophy
 
